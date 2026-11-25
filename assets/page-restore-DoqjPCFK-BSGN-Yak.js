@@ -1,0 +1,1 @@
+import{y as e}from"./helpers-B-7MQdF9-CyMJXPQy.js";var t=500,n=(n,r,i,a)=>{if(!n.persisted||!r)return;let o=Date.now(),s=()=>{let n=i();r.value===n?Date.now()-o<t&&e(s):r.type===`password`?a(r.value):r.value=n};e(s)};export{n as t};

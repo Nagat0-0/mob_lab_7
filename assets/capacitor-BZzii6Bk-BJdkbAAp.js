@@ -1,0 +1,1 @@
+import{w as e}from"./helpers-B-7MQdF9-CyMJXPQy.js";var t=()=>{if(e!==void 0)return e.Capacitor};export{t};
